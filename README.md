@@ -5,12 +5,16 @@ Welcome to Catbyte's project for Code the Dream's Advanced Prework Assignment!
 
 Follow the instructions below to run the website in a development environment.
 
+Requirements: node.js >= v18
+              npm
+              vite
+
 First, clone the project in a directory of your choice. 
 
-Next, move into the directory containing `index.html`
+Next, move into the website directory `my-ctd-website`
 
-Now run the following command for an on-demand http-server to view the website:
-`npx http-server .`
+Now run the following command to run the website on a development server:
+`npm run dev`
 
 Visit `http://localhost:8080` in your browser.
 
