@@ -5,9 +5,11 @@ Welcome to Catbyte's project for Code the Dream's Advanced Prework Assignment!
 
 Follow the instructions below to run the website in a development environment.
 
-Requirements: node.js >= v18
-              npm
-              vite
+This project was build using Vite and therefore has the following requirements:
+
+node.js >= v18
+npm
+vite
 
 First, clone the project in a directory of your choice. 
 
