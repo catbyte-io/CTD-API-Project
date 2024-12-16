@@ -1,4 +1,5 @@
 import './style.css'
+import './fonts.css'
 import neonCat from './assets/NeonCat_Profile.jpg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
@@ -15,7 +16,7 @@ document.querySelector('#app').innerHTML = `
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
-    <p class="read-the-docs">
+    <p class="subtle">
       Click on the Vite logo to learn more
     </p>
   </div>
