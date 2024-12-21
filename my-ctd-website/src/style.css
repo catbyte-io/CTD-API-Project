@@ -54,6 +54,15 @@ h1 {
 .logo.vanilla:hover {
   filter: drop-shadow(0 0 2em #f7df1eaa);
 }
+.logo.cherry:hover {
+  filter: drop-shadow(0 0 2em #a1071eaa);
+}
+.logo.ice:hover {
+  filter: drop-shadow(0 0 2em #1e8ef7aa);
+}
+.logo.mint:hover {
+  filter: drop-shadow(0 0 2em #1ef7ccaa);
+}
 
 .card {
   padding: 2em;
